@@ -7,11 +7,12 @@
 
 // var promise = new Promise(f);
 
-// promise
-//     .then(function() {
+
+// promise.
+// then(function() {
 //         console.log("Promise resolved.");
-//     })
-//     .catch(function() {
+//     }).
+// catch(function() {
 //         console.log("Promise rejected.");
 //     });
 
@@ -65,3 +66,4 @@
 //     .then(function(data) {
 //         console.log(data);
 //     });
+
